@@ -3,6 +3,9 @@
     font-size: 35px;
 }
 .lista{
-    display: flex;
-    
+    display: flex;    
+}
+
+.lista-item{
+    margin-left: 50px;
 }

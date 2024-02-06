@@ -1,3 +1,5 @@
+
+
 .cabecalho{
     display: flex;
     font-size: 35px;
@@ -8,4 +10,9 @@
 
 .lista-item{
     margin-left: 50px;
+}
+
+.lista-item{
+    display: flex;
+    list-style-type: none;
 }

@@ -27,4 +27,6 @@ body{
 
 .teste1{
     display: flex;
+    justify-content: center;
 }
+

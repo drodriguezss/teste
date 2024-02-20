@@ -2,5 +2,5 @@
 
 function mudarCorTexto(){
     alert("Ola mundo")
-   console.log(document.querySelector("#p1"))
+    console.log(document.querySelector("#p1"))
 }

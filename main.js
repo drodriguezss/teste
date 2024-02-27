@@ -1,6 +1,5 @@
 
 
 function mudarCorTexto(){
-    alert("Ola mundo")
-    console.log(document.querySelector("#p1"))
-}
+    Document.querySelector("#p1").style.color "green"
+    )
